@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloForm/HelloForm.iml" filepath="$PROJECT_DIR$/HelloForm/HelloForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostgresqlDemo/PostgresqlDemo.iml" filepath="$PROJECT_DIR$/PostgresqlDemo/PostgresqlDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+    </modules>
+  </component>
+</project>

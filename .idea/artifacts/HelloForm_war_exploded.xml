@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HelloForm:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloForm_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HelloForm/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HelloForm" />
+        </element>
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/HelloForm/web/hello.html" />
+    </root>
+  </artifact>
+</component>
